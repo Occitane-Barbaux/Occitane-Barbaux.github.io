@@ -82,9 +82,13 @@ analytics:
 author:
   name             : "Occitane Barbaux"
   avatar           : "profile.jpg"
-  bio              : "Phd Student 2  "
+  bio              : "Phd Student"
   location         : "CNRM, Toulouse, France"
-  employer         : "[CNRM](http://www.umr-cnrm.fr/) / LSCE / IRSN"
+  employer         : 
+  links:
+    - label: "CNRM / LSCE / IRSN"
+      icon: "far fa-university"
+      url: "https://mademistakes.com"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=El2AP_MAAAAJ&hl=fr"
   email            :  "occitane.barbaux@umr-cnrm.fr"

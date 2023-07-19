@@ -21,15 +21,17 @@ See [Linkedin](https://fr.linkedin.com/in/occitane-barbaux/en)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2022: Statistical Engineer for a task force on extreme Wind and Snow
+  * Contracted to the [French Institute for Radiological Protection and Nuclear Safety](https://www.irsn.fr/linstitut/qui-sommes-nous)
+  * Supervisor: Claire Marie DULUC
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020: Research internship on statistical modelling of extrem winds
+  * At [IRSN](https://www.irsn.fr/linstitut/qui-sommes-nous)  
+  * Supervisors: Nathalie BERTRAND and Yasser HAMDI
+
+* 2019: Research Internship on cardiovascular risks factor for menopausal women
+  * In the [Cardiovascular Epidemiology Unit](https://www.phpc.cam.ac.uk/ceu/), University of Cambridge
+  * Supervisor: Dr Clare Oliver-Williams (Research Associate)
   
 Skills
 ======
@@ -58,6 +60,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -12,11 +12,12 @@ redirect_from:
 See [Linkedin](https://fr.linkedin.com/in/occitane-barbaux/en)
 
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
+
+* Ph.D - 2022-2025 (Expected)
+* Master in Statistics Engineering - 2020
+  * Graduated from the National School for Statistics and Economic Administration (ENSAE)
+  * Specialization in Machine Learning and Statistical Learning.
 
 Work experience
 ======

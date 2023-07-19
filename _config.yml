@@ -87,7 +87,7 @@ author:
   employer         : 
   links:
     - label: "CNRM / LSCE / IRSN"
-      icon: "far fa-university"
+      icon: "fas fa-university"
       url: "https://mademistakes.com"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=El2AP_MAAAAJ&hl=fr"

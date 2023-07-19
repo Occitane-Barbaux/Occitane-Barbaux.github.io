@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+See [Linkedin](https://fr.linkedin.com/in/occitane-barbaux/en)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012

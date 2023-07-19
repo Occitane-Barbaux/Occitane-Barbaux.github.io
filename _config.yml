@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Occitane Barbaux"
   avatar           : "profile.jpg"
-  bio              : "Phd Student 2        \ at CNRM / LSCE /IRSN"
+  bio              : "Phd Student 2  "
   location         : "CNRM, Toulouse, France"
-  employer         : 
+  employer         : "[CNRM](http://www.umr-cnrm.fr/) / LSCE / IRSN"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=El2AP_MAAAAJ&hl=fr"
   email            :  "occitane.barbaux@umr-cnrm.fr"

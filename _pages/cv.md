@@ -16,7 +16,7 @@ See [Linkedin](https://fr.linkedin.com/in/occitane-barbaux/en)
 
 * Ph.D - 2022-2025 (Expected)
 * Master in Statistics Engineering - 2020
-  * Graduated from the National School for Statistics and Economic Administration (ENSAE)
+  * Graduated from the [National School for Statistics and Economic Administration (ENSAE)](https://www.ensae.fr/lecole/presentation-de-lensae-paris)
   * Specialization in Machine Learning and Statistical Learning.
 
 Work experience

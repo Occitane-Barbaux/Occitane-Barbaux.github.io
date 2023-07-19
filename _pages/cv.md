@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See [Linkedin](https://fr.linkedin.com/in/occitane-barbaux/en)
+See also [Linkedin](https://fr.linkedin.com/in/occitane-barbaux/en)
 
 
 # Education

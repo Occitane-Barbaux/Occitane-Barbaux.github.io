@@ -84,9 +84,9 @@ author:
   avatar           : "profile.jpg"
   bio              : "Phd Student at CNRM / LSCE /IRSN"
   location         : "CNRM, Toulouse, France"
-  employer         : "IRSN"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=El2AP_MAAAAJ&hl=fr"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

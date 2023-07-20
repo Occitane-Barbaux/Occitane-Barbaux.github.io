@@ -4,7 +4,7 @@ collection: teaching
 type: "Master 1"
 permalink: /teaching/2023-ENM
 venue: "École Nationale de la Météorologie"
-date: 2023-01
+date: 2023-01-25
 location: "Toulouse, France"
 ---
 

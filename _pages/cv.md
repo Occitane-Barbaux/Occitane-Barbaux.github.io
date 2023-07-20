@@ -39,13 +39,20 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+ <!--- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+  {% endfor %}</ul> --->
+Not yet !
+
+<!---Talks
 ======
   <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>--->
+
+Posters
+======
+  <ul>{% for post in site.posters %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   

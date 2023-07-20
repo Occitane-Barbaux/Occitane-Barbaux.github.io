@@ -7,7 +7,6 @@ venue: "École Nationale de la Météorologie"
 date: 2023-01-25
 location: "Toulouse, France"
 ---
-
 Class on "Unsupervised Classification".
 
 4h class and 9h Praticals.

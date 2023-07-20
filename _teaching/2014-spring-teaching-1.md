@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Classification Non-supervisée"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master 1"
+permalink: /teaching/2023-ENM
+venue: "École Nationale de la Météorologie"
+date: 2023-01
+location: "Toulouse, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Class on "Unsupervised Classification".
+4h class and 9h Praticals.
+[Download Class Slides here](http://occitane-barbaux.github.io/files/Presentation_Classification_non_supervisee.pdf)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

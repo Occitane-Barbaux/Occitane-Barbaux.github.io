@@ -9,6 +9,8 @@ location: "Toulouse, France"
 ---
 
 Class on "Unsupervised Classification".
+
 4h class and 9h Praticals.
+
 [Download Class Slides here](http://occitane-barbaux.github.io/files/Presentation_Classification_non_supervisee.pdf)
 

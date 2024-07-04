@@ -9,7 +9,7 @@ location: "Toulouse, France"
 ---
 Class on "Unsupervised Classification".
 
-4h class and 9h Praticals. Done for school years 2022-23 and 2023-24.
+4h class and 9h Praticals in Python. Done for the school years 2022-23 and 2023-24.
 
 [Download Class Slides here](http://occitane-barbaux.github.io/files/Presentation_Classification_non_supervisee.pdf)
 

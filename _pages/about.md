@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Hello !
-I'm a Ph.D Researcher in the French National Center for Meteorological Research ([CNRM](Centre National de Recherches Météorologiques )) in Toulouse, France since October 2022.
+I'm a Ph.D. researcher in Toulouse, France since October 2022. I work for the French National Center for Meteorological Research ([CNRM](https://www.umr-cnrm.fr/) ), the Institute for Radiation Protection and Nuclear Safety ([IRSN](https://en.irsn.fr/)) and the Laboratory for Sciences of Climate and Environment ([LSCE](https://www.lsce.ipsl.fr/en/Phocea/Vie_des_labos/Ast/ast_service.php?id_unit=24)).
 
 My research focuses on **Extreme Value Theory**,**Life-levels**, **Bayesian Statistics**, and **Climate Change**.
 

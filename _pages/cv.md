@@ -36,6 +36,9 @@ Work experience
   * In the [Cardiovascular Epidemiology Unit](https://www.phpc.cam.ac.uk/ceu/), University of Cambridge
   * Supervisor: Dr Clare Oliver-Williams (Research Associate)
   
+Others
+======
+I participated in an interview for Repères, the IRSN's magazine ! Here is the article (in french): [Évaluer aujourd’hui les canicules de demain](https://reperes.irsn.fr/dossier/reportage-evaluer-aujourdhui-les-canicules-de-demain)
 
 Publications
 ======
@@ -47,11 +50,11 @@ Not yet !
   {% endfor %}</ul>
   --->
 
-<!---Talks
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>--->
+  {% endfor %}</ul>
 
 Posters
 ======
@@ -65,3 +68,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+

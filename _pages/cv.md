@@ -42,13 +42,9 @@ I participated in an interview for Repères, the IRSN's magazine ! Here is the a
 
 Publications
 ======
-Not yet !
-
-<!---
 <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  --->
 
 Talks
 ======

@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "An automatic procedure for the attribution of extreme events at the global scale: a proof of concept for heatwaves "
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-11-25-automatic-attribution
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2025-11-25
+venue: 'Cover Bulletin of the American Meteorological Society Bulletin of the American Meteorological Society'
+paperurl: 'https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-24-0265.1/BAMS-D-24-0265.1.xml'
+citation: 'Qasmi, S., A. Ribes, J. Cattiaux, O. Barbaux, Y. Robin, and W. Dulac, 2025: An automatic procedure for the attribution of extreme events at the global scale: a proof of concept for heatwaves. Bull. Amer. Meteor. Soc., BAMS-D-24-0265.1, https://doi.org/10.1175/BAMS-D-24-0265.1, in press.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper builds upon the technical developments presented in my thesis, including the use of MCMC chains, to propose an automatic and online attribution method for extreme events.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-24-0265.1/BAMS-D-24-0265.1.xml?tab_body=fulltext-display)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation:  Qasmi, S., A. Ribes, J. Cattiaux, O. Barbaux, Y. Robin, and W. Dulac, 2025: An automatic procedure for the attribution of extreme events at the global scale: a proof of concept for heatwaves. Bull. Amer. Meteor. Soc., , BAMS-D-24-0265.1, https://doi.org/10.1175/BAMS-D-24-0265.1, in press.
+
+

@@ -4,12 +4,12 @@ collection: teaching
 type: "Master 1"
 permalink: /teaching/2023-ENM
 venue: "École Nationale de la Météorologie"
-date: 2023-01-25
+date: 2025-01-25
 location: "Toulouse, France"
 ---
 Class on "Unsupervised Classification".
 
-4h class and 9h Praticals in Python. Done for the school years 2022-23 and 2023-24.
+4h class and 9h Praticals in Python. Done for the school years 2022-23, 2023-24 and 2024-2025.
 
 [Download Class Slides here](http://occitane-barbaux.github.io/files/Presentation_Classification_non_supervisee.pdf)
 

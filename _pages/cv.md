@@ -14,7 +14,7 @@ See also [Linkedin](https://fr.linkedin.com/in/occitane-barbaux/en)
 
 # Education
 
-* **Ph.D** - 2022-2025 (Expected)
+* **Ph.D** - 2022-2025 (Defended successfully on 12/12/2025)
   *  Subject: **Extreme Temperatures in France for the 21st century**.
   *  Thesis Advisor: [Philippe NAVEAU](https://www.lsce.ipsl.fr/Pisp/philippe.naveau/)  (LSCE)
   *  Supervisors: Nathalie BERTRAND (IRSN) and [Aurélien RIBES](https://www.umr-cnrm.fr/spip.php?article23) (CNRM)

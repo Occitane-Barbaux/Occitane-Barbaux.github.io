@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Occitane Barbaux"
 title_separator          : "-"
 name                     : &name "Occitane Barbaux"
-description              : &description "Phd Student \ at LSCE / CNRM / IRSN"
+description              : &description "Post-doctoral researcher \ at LSCE / CNRM / ASNR"
 url                      : https://occitane-barbaux.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "occitane-barbaux.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Occitane Barbaux"
   avatar           : "profile.jpg"
-  bio              : "Phd Student"
-  bio2             : "CNRM / LSCE / IRSN"
+  bio              : "Post-doctoral researcher"
+  bio2             : "CNRM / LSCE / ASNR"
   location         : "CNRM, Toulouse, France"
   employer         : 
   links:
-    - label: "CNRM / LSCE / IRSN"
+    - label: "CNRM / LSCE / ASNR"
       icon: "fas fa-university"
       url: "https://mademistakes.com"
   pubmed           : 

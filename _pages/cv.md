@@ -24,6 +24,11 @@ See also [Linkedin](https://fr.linkedin.com/in/occitane-barbaux/en)
 
 Work experience
 ======
+
+* 2026: **Postdoctoral Researcher** on Extreme Temperatures
+  * Contracted to the French National Center for Meteorological Research ([CNRM](https://www.umr-cnrm.fr/) ) in the french [PEPR TRACCS](https://pepr-traccs.fr/projet/pc4-extending/)
+  * Supervisor: [Aurélien RIBES](https://www.umr-cnrm.fr/spip.php?article23)
+
 * 2020-2022: **Statistical Engineer** for a task force on extreme Wind and Snow
   * Contracted to the [French Institute for Radiological Protection and Nuclear Safety](https://www.irsn.fr/linstitut/qui-sommes-nous)
   * Supervisor: Claire Marie DULUC
